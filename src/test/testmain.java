@@ -7,6 +7,7 @@ public class testmain {
 		System.out.println("HELLO");
 		System.out.println("HELLO");
 		System.out.println("HELLO");
+		aaa
 	}
 
 }
